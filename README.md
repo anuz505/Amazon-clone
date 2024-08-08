@@ -17,7 +17,11 @@ This repository contains a web application that replicates the Amazon shopping e
 
 ## Screenshots
 
-*Add screenshots of your project here if available.*
+![Capture](Capture.PNG)
+*Homepage Screenshot*
+
+![Checkout](checkout.PNG)
+*Checkout Page Screenshot*
 
 ## Installation
 
